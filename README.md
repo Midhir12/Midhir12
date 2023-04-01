@@ -1,5 +1,5 @@
 - 👋 Heyy folks I'm Midhir Nambiar currently pursuing a 5 year dual degree course(MBATech) in CSE at NMIMS Kharghar, Navi Mumbai. I am currently in my 2nd year of Engineering.
-- 👀 I’m interested in the fields of Data Science , Machine Learning , Artificial Intelligence and Web Development as well.
+- 👀 I’m interested in the fields of Data Science , Machine Learning , Artificial Intelligence as well.
 
 
 <!---
